@@ -792,7 +792,7 @@ These shortcuts provide:
 
 #### Better Formatted Output
 
-- `di`: Lists images with formatted output showing ID, repository, tag, size, and age
+- `di`/`dia`: Lists regular/all (including dangling) images with formatted output showing ID, repository, tag, size, and age.
 - `dps`/`dpsa`: Shows running/all containers with formatted output
 
 #### Bulk Operations
